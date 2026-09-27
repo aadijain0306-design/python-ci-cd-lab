@@ -18,4 +18,4 @@ jobs:
           python-version: "3.13"
 
       - name: Run Python program
-        run: python main.py
+        run: python index.py
